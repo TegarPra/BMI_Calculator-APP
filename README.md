@@ -36,6 +36,7 @@ BMI Calculator adalah aplikasi mobile berbasis Flutter yang digunakan untuk meng
 
 ## Screenshot Aplikasi
 ### Tampilan Input Data
+![image alt](pixel-art-12601_512.gif)
 ![BMI Calculator Input](path/to/input_screenshot.jpg)
 
 ### Tampilan Hasil BMI
